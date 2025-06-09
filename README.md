@@ -14,4 +14,5 @@ git clone https://github.com/korrones/noticias-brasil-react.git
 
 cd brasil_noticias_frontend
 npm install (instalar tudo que tem no package.json)
+
 npm run dev
